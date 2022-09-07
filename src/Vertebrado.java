@@ -6,7 +6,7 @@ public class Vertebrado {
    public Vertebrado(String nombreVertebrado, String claseVertebrado){
        this.nombreVertebrado = nombreVertebrado;
        this.claseVertebrado = claseVertebrado;
-       //gg
+   
    }
    
       
